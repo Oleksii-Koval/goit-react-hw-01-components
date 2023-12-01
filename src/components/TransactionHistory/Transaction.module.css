@@ -1,0 +1,15 @@
+.table_container {
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.titles {
+  background-color: lightblue;
+  color: rgb(9, 54, 93);
+  padding: 20px;
+  width: 100px;
+}
+.table_item {
+  background-color: rgb(153, 237, 237);
+  padding: 15px;
+}
