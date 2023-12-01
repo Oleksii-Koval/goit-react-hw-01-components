@@ -5,6 +5,8 @@
   flex-direction: column;
   /*  */
   margin-bottom: 50px;
+  box-shadow: 0 0 10px #3f5050ed;
+  overflow: hidden;
 }
 
 .list_item {
@@ -13,6 +15,7 @@
   justify-content: flex-start;
   padding: 15px;
   gap: 20px;
+  box-shadow: 0 0 10px #b3f2c4ed;
 }
 
 .online,
@@ -25,7 +28,7 @@
 }
 
 .online {
-  background-color: green;
+  background-color: rgb(13, 240, 13);
 }
 
 .offline {

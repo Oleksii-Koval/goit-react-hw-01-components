@@ -8,8 +8,10 @@
   color: rgb(9, 54, 93);
   padding: 20px;
   width: 100px;
+  box-shadow: 0 0 10px 0px #a2fdfded;
 }
 .table_item {
   background-color: rgb(153, 237, 237);
   padding: 15px;
+  box-shadow: 0 0 10px 0px #a2fdfded;
 }
